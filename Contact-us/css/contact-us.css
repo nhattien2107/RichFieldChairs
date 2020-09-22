@@ -1,0 +1,20 @@
+/*showroom*/
+
+.showroom {
+    margin: auto;
+}
+
+/*mapouter*/
+
+.mapouter {
+    position: relative;
+    height: 400px;
+    width: 100%;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none!important;
+    height: 400px;
+    width: 100%;
+}
